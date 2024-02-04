@@ -1,7 +1,7 @@
 <h1 align="center">><Hello World 👋>, I'm Ameesa (she/her).</h1>
 <h3 align="center">An out-of-the-box thinker, problem-solver, and tree-hugger who loves to code.</h3>
 
-- 🔭 I’m currently working on **a rubber duck chat app!**
+- 🔭 I’m currently working on **a rubber duck chat app**
 
 - 🌱 I’m currently learning **entity, php, laravel, bootstrap**
 
