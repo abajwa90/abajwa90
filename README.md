@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **entity, php, laravel, bootstrap**
 
-- 💬 Ask me about **node.js, sql, C#, js, express.js, npm, typescript**
+- 💬 Ask me about **node.js, sql, C#, js, express.js, mongodb, typescript**
 
 - 📫 How to reach me **ameesabajwa@gmail.com**
 
