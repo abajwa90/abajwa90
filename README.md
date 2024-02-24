@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/abajwa90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abajwa90" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ameesa-bajwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ameesa-bajwa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ameesa-bajwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ameesa-bajwa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/abajwa90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abajwa90" height="30" width="40" /></a>
 <a href="https://discord.gg/abajwa90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abajwa90" height="30" width="40" /></a>
 </p>
