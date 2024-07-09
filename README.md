@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **node.js, sql, C#, js, express.js, mongodb, typescript**
 
-- 📫 How to reach me **ameesabajwa@gmail.com**
+- 📫 Shoot me an email at **ameesabajwa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
