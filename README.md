@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 👋! I'm Ameesa (she/her).</h1>
 
-- 📫 Shoot me an email at **ameesabajwa@gmail.com**
+- 📫 Shoot me an email at **ameesabajwa@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
