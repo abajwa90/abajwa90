@@ -1,11 +1,4 @@
 <h1 align="center">Hello World 👋! I'm Ameesa (she/her).</h1>
-<h3 align="center">An out-of-the-box thinker, problem-solver, and tree-hugger who loves to code.</h3>
-
-- 🔭 I’m currently working on **a retro Kirby video game**
-
-- 🌱 I’m currently learning **entity, php, laravel, bootstrap**
-
-- 💬 Ask me about **node.js, sql, C#, js, express.js, mongodb, typescript**
 
 - 📫 Shoot me an email at **ameesabajwa@gmail.com**
 
